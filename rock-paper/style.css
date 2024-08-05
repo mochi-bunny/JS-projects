@@ -1,0 +1,30 @@
+*{
+    
+    display: flex;
+    align-content: center;
+}
+body{
+    background: linear-gradient(rgb(66, 96, 226), rgb(235, 241, 158));
+    display: list-item;
+    align-items: center;
+    padding-left: 40rem; 
+    height: 800px;
+}
+
+.buttons{
+    display:grid;
+    background-color: aliceblue;
+    align-content: center;
+    gap: 1rem;
+    padding: 2rem;  
+}
+
+button{
+    color: azure; 
+     width: 90%;
+    height: 50px;
+    background-color: black;  
+     display: block;
+}
+
+ 
